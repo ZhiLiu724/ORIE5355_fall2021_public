@@ -1,2 +1,3 @@
-# ORIE5355_public
-Public repository containing datasets for ORIE5355/INFO5370 homeworks.
+# Datasets for ORIE 5355 / INFO 5370
+
+## 9/6/21 Updated HW1 dataset
