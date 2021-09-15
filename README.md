@@ -4,4 +4,4 @@
 
 ``polling_data_hw1.csv``: Raw polling data from Florida
 
-``florida_proportions_hw1.csv``: Aggregated proportion of population by demographics calculated from raw polling data
+``florida_proportions_hw1.csv``: Aggregated proportion of population by demographics calculated from census data, used as the benchmark population proportion.
