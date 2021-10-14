@@ -9,3 +9,8 @@
 ## 9/20/21 Updated HW2 dataset
 
 See assignment notebook for details about the dataset.
+
+## 10/14/21 Updated HW3 dataset
+
+See assignment notebook for details about the dataset.
+
